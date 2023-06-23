@@ -22,25 +22,26 @@
     </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-5D5D5D?style=for-the-badge&logo=python)](https://github.com/nzb3)
-[![Go](https://img.shields.io/badge/Go-5D5D5D?style=for-the-badge&logo=Go)](https://github.com/nzb3)
-[![JavaScript](https://img.shields.io/badge/javascript-5D5D5D?style=for-the-badge&logo=javascript)](https://github.com/nzb3)
-[![TypeScript](https://img.shields.io/badge/Typescript-5D5D5D?style=for-the-badge&logo=Typescript)](https://github.com/nzb3)
-[![PHP](https://img.shields.io/badge/php-5D5D5D?style=for-the-badge&logo=php)](https://github.com/nzb3)
-[![SQL](https://img.shields.io/badge/sql-5D5D5D?style=for-the-badge&logo=mysql)](https://github.com/nzb3)
-
+[![Python](https://img.shields.io/badge/python-5D5D5D?style=for-the-badge&logo=python)](https://github.com/nzb3/python)
+[![Go](https://img.shields.io/badge/Go-5D5D5D?style=for-the-badge&logo=Go)](https://github.com/nzb3/go)
+[![JavaScript](https://img.shields.io/badge/javascript-5D5D5D?style=for-the-badge&logo=javascript)](https://github.com/nzb3/javascript)
+[![TypeScript](https://img.shields.io/badge/Typescript-5D5D5D?style=for-the-badge&logo=Typescript)](https://github.com/nzb3/typescript)
+[![PHP](https://img.shields.io/badge/php-5D5D5D?style=for-the-badge&logo=php)](https://github.com/nzb3/php)
+[![SQL](https://img.shields.io/badge/sql-5D5D5D?style=for-the-badge&logo=mysql)](https://github.com/nzb3/)
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-5D5D5D?style=for-the-badge&logo=django)](https://github.com/nzb3)
-[![FastAPI](https://img.shields.io/badge/FastAPI-5D5D5D?style=for-the-badge&logo=FastAPI)](https://github.com/nzb3)
-[![Vue.js](https://img.shields.io/badge/Vue.js-5D5D5D?style=for-the-badge&logo=Vue.js)](https://github.com/nzb3)
-[![HTML5](https://img.shields.io/badge/html5-5D5D5D?style=for-the-badge&logo=html5)](https://hub.docker.com/u/nzb3)
-[![CSS3](https://img.shields.io/badge/css3-5D5D5D?style=for-the-badge&logo=css3)](https://hub.docker.com/u/nzb3)
+[![Django](https://img.shields.io/badge/django-5D5D5D?style=for-the-badge&logo=django)](https://github.com/nzb3/django)
+[![FastAPI](https://img.shields.io/badge/FastAPI-5D5D5D?style=for-the-badge&logo=FastAPI)](https://github.com/nzb3/fastapi)
+[![Laravel](https://img.shields.io/badge/Laravel-5D5D5D?style=for-the-badge&logo=Laravel)](https://github.com/nzb3/laraver)
 [![Docker](https://img.shields.io/badge/docker-5D5D5D?style=for-the-badge&logo=docker)](https://hub.docker.com/u/nzb3)
-
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5D5D5D?style=for-the-badge&logo=PostgreSQL)](https://hub.docker.com/u/nzb3)
+[![Vue.js](https://img.shields.io/badge/Vue.js-5D5D5D?style=for-the-badge&logo=Vue.js)](https://github.com/nzb3/vue)
+[![HTML5](https://img.shields.io/badge/html5-5D5D5D?style=for-the-badge&logo=html5)](https://hub.docker.com/u/nzb3/html-css)
+[![CSS3](https://img.shields.io/badge/css3-5D5D5D?style=for-the-badge&logo=css3)](https://hub.docker.com/u/nzb3/html-css)
 ### OS
 [![Linux](https://img.shields.io/badge/linux-5D5D5D?style=for-the-badge&logo=Linux)](https://github.com/nzb3)
-[![Windows](https://img.shields.io/badge/Windows-5D5D5D?style=for-the-badge&logo=Windows)](https://github.com/nzb3)
 [![MacOS](https://img.shields.io/badge/MacOS-5D5D5D?style=for-the-badge&logo=Apple)](https://github.com/nzb3)
+[![Windows](https://img.shields.io/badge/Windows-5D5D5D?style=for-the-badge&logo=Windows)](https://github.com/nzb3)
+
 
 <details>
 <p align="center">
