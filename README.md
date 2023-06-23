@@ -31,7 +31,7 @@
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-5D5D5D?style=for-the-badge&logo=django)](https://github.com/nzb3/django)
 [![FastAPI](https://img.shields.io/badge/FastAPI-5D5D5D?style=for-the-badge&logo=FastAPI)](https://github.com/nzb3/fastapi)
-[![Laravel](https://img.shields.io/badge/Laravel-5D5D5D?style=for-the-badge&logo=Laravel)](https://github.com/nzb3/laraver)
+[![Laravel](https://img.shields.io/badge/Laravel-5D5D5D?style=for-the-badge&logo=Laravel)](https://github.com/nzb3/laravel)
 [![Docker](https://img.shields.io/badge/docker-5D5D5D?style=for-the-badge&logo=docker)](https://hub.docker.com/u/nzb3)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5D5D5D?style=for-the-badge&logo=PostgreSQL)](https://hub.docker.com/u/nzb3)
 [![Vue.js](https://img.shields.io/badge/Vue.js-5D5D5D?style=for-the-badge&logo=Vue.js)](https://github.com/nzb3/vue)
