@@ -19,6 +19,9 @@
         <a href="https://leetcode.com/NikZB3/">
             <img src="https://img.shields.io/badge/LeetCode-D66049?style=flat-square&logo=LeetCode" alt="LeetCode">
         </a>
+        <a href="https://github.com/nikbizz3/">
+            <img src="https://img.shields.io/badge/Old GitHub-D66049?style=flat-square&logo=GitHub" alt="Github">
+        </a>
     </p>
 
 ## Languages
